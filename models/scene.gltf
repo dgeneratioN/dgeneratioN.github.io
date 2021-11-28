@@ -1,0 +1,191 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10636,
+      "max": [
+        3.9954159259796143,
+        8.550618171691895,
+        19.422800064086914
+      ],
+      "min": [
+        -4.1025471687316895,
+        -7.758224010467529,
+        -0.046185001730918884
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 127632,
+      "componentType": 5126,
+      "count": 10636,
+      "max": [
+        1.0,
+        0.9996902346611023,
+        0.9998767375946045
+      ],
+      "min": [
+        -0.999845564365387,
+        -0.9991042017936707,
+        -0.9999383687973022
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10636,
+      "max": [
+        0.99726402759552,
+        0.996366024017334
+      ],
+      "min": [
+        0.0043750000186264515,
+        0.003872999921441078
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 48018,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Dracolyte (https://sketchfab.com/dracolyte)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/doom-slayer-toy-doom-eternal-d72ca5cb59de42d89df0866d29021259",
+      "title": "Doom Slayer Toy (Doom Eternal)"
+    },
+    "generator": "Sketchfab-11.49.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 192072,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 85088,
+      "byteOffset": 192072,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 255264,
+      "byteOffset": 277160,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 532424,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/doomslayer_toy_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "doomslayer_toy",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -9.850443101460165e-18,
+        -2.7164168534618067e-18,
+        0.04436245188117027,
+        0.0,
+        0.04436245188117027,
+        -7.13402624799836e-18,
+        9.850443101460164e-18,
+        0.0,
+        7.134026247998359e-18,
+        0.04436245188117027,
+        2.7164168534618067e-18,
+        0.0,
+        -0.44977307319641113,
+        7.608224632783497e-17,
+        -0.34264397621154785,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "SlayerToy.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
