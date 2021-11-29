@@ -21,13 +21,14 @@ const loader = new THREE.GLTFLoader();
 
 class DoomGuy {
   constructor() {
-    loader.load("../models/scene.gltf", (gltf) => {
+    loader.load("../3d/models/scene.gltf", (gltf) => {
       scene.add(gltf.scene);
-      //gltf.scene.scale.set (4,4,4);
       this.doomguy = gltf.scene;
 
       var box = new THREE.Box3().setFromObject(gltf.scene);
-      box.getCenter(gltf.scene.position); // this re-sets the mesh position
+
+      // this re-sets the mesh position
+      box.getCenter(gltf.scene.position);
       gltf.scene.position.multiplyScalar(- 1);
 
 
@@ -35,15 +36,21 @@ class DoomGuy {
       scene.add(pivot);
       pivot.add(gltf.scene);
       this.pivo = pivot;
+      animate();
     })
   }
   rodar() {
-    this.pivo.rotation.y += 0.1;
-    
+    this.pivo.rotation.y += 0.01;
+  }
+  animate() {
+    this.rodar();
+    requestAnimationFrame(animate);
+    renderer.render(scene, camera);
   }
 }
 
 let doom = new DoomGuy();
+let retroSound = new Audio("snd/collectible.mp3")
 
 
 //doom.rodar();
@@ -54,13 +61,8 @@ function animate() {
   renderer.render(scene, camera);
 }
 
-setTimeout(() => {
-  animate();
-}, 3000);
-
-
 function romero() {
-  new Audio("snd/romero.m4a").play();
+  retroSound.play()
 }
 
 window.addEventListener('resize', onWindowResize, false);
