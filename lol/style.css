@@ -1,0 +1,21 @@
+body {
+  font-family: 'Reaver';
+  color:#FF3F29;
+  background-color: #1D1E22;
+  text-align: center;
+  }
+
+.heroChoice {
+  font: 'Radiance';
+  color:white;
+}
+@font-face {
+  font-family: "Reaver";
+  src: url("font/Reaver-SemiBold.woff") format('woff');
+}
+
+
+@font-face {
+  font-family: "Radiance";
+  src: url("font/Radiance.woff") format('woff');
+}
