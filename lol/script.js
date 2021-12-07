@@ -29,6 +29,32 @@ const sndlist = [
     ]
   },
   {
+    "name": "Oracle",
+    "portrait": "oracle.png",
+    "vo":
+    [
+      "snd/Vo_oracle_orac_laugh_01.mp3",
+      "snd/Vo_oracle_orac_laugh_02.mp3",
+      "snd/Vo_oracle_orac_laugh_03.mp3",
+      "snd/Vo_oracle_orac_laugh_04.mp3",
+      "snd/Vo_oracle_orac_laugh_05.mp3",
+      "snd/Vo_oracle_orac_laugh_06.mp3",
+      "snd/Vo_oracle_orac_laugh_07.mp3",
+      "snd/Vo_oracle_orac_laugh_08.mp3",
+      "snd/Vo_oracle_orac_laugh_09.mp3",
+      "snd/Vo_oracle_orac_laugh_10.mp3",
+      "snd/Vo_oracle_orac_laugh_11.mp3",
+      "snd/Vo_oracle_orac_laugh_12.mp3",
+      "snd/Vo_oracle_orac_laugh_13.mp3",
+      "snd/Vo_oracle_orac_laugh_14.mp3",
+      "snd/Vo_oracle_orac_laugh_15.mp3",
+      "snd/Vo_oracle_orac_laugh_16.mp3",
+      "snd/Vo_oracle_orac_laugh_17.mp3",
+      "snd/Vo_oracle_orac_laugh_18.mp3",
+      "snd/Vo_oracle_orac_laugh_19.mp3"
+    ]
+  },
+  {
     "name": "Rattletrap",
     "portrait": "clock.png",
     "vo": 
