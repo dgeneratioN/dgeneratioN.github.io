@@ -6,9 +6,39 @@ body {
   }
 
 .heroChoice {
+  margin-top:10px;
   font: 'Radiance';
   color:white;
+  flex:50%;
 }
+#foto{
+  height: 300px;
+}
+
+.button {
+  font-family: 'Reaver';
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #bd2f20;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #666;
+}
+
+.button:hover {background-color: #882217}
+
+.button:active {
+  background-color: #882217;
+  box-shadow: 0 5px #555;
+  transform: translateY(4px);
+}
+
 @font-face {
   font-family: "Reaver";
   src: url("font/Reaver-SemiBold.woff") format('woff');
