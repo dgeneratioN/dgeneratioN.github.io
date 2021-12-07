@@ -76,6 +76,22 @@ const sndlist = [
     ]
   },
   {
+    "name": "Sniper",
+    "portrait": "ronaldinho.png",
+    "vo": 
+    [
+      "snd/Vo_sniper_snip_laugh_01.mp3",
+      "snd/Vo_sniper_snip_laugh_02.mp3",
+      "snd/Vo_sniper_snip_laugh_03.mp3",
+      "snd/Vo_sniper_snip_laugh_04.mp3",
+      "snd/Vo_sniper_snip_laugh_05.mp3",
+      "snd/Vo_sniper_snip_laugh_06.mp3",
+      "snd/Vo_sniper_snip_laugh_07.mp3",
+      "snd/Vo_sniper_snip_laugh_08.mp3",
+      "snd/Vo_sniper_snip_laugh_09.mp3",
+    ]
+  },
+  {
     "name": "Warlock",
     "portrait": "warlock.png",
     "vo": 
@@ -89,6 +105,8 @@ const sndlist = [
     ]
   }
 ];
+
+
 
 
 let index = 0;
