@@ -5,15 +5,21 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
   <title>Hahaha</title>
 </head>
 <body>
   <h1>Dota 2 Laughter Generator</h1>
   <div class=portrait>
-    <img id="foto" src="img/am.png" />
+    <img id="foto" src="img/Anti-mage.png" />
   </div>
   <div class="heroChoice">
     <label for="cars">Choose a hero:</label><br>
+    <select name="Type" class="typelist">
+
+    </select>
     <select name="Hero" class="herolist">
       <!--
     <option value="am">Anti-Mage</option>
@@ -21,13 +27,14 @@
     <option value="razor">Razor</option>
     <option value="silencer">Silencer</option> -->
     </select><br><br>
-    <button class="button" id="botaohehe">HEHEHE</button>
+    <button class="button">HEHEHE</button><br><br>
+    <button class="button2" hidden>Send Funny Image</button>
+
   </div>
 
 
   <p hidden id="editme">this is a test</p>
 
 
-</select>
 </body>
 </html>

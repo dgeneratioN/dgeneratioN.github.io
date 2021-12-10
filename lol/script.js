@@ -1,170 +1,78 @@
-const sndlist = [
-  {
-    "name": "Anti-Mage",
-    "portrait": "am.png",
-    "vo": 
-    [
-      "snd/Vo_antimage_anti_laugh_01.mp3",
-      "snd/Vo_antimage_anti_laugh_02.mp3",
-      "snd/Vo_antimage_anti_laugh_03.mp3",
-      "snd/Vo_antimage_anti_laugh_04.mp3",
-      "snd/Vo_antimage_anti_laugh_05.mp3",
-      "snd/Vo_antimage_anti_laugh_06.mp3",
-      "snd/Vo_antimage_anti_laugh_07.mp3",
-      "snd/Vo_antimage_anti_laugh_08.mp3",
-      "snd/Vo_antimage_anti_laugh_09.mp3"
-    ]
-  },
-  {
-    "name": "Keeper of the Light",
-    "portrait": "kotl.png",
-    "vo": 
-    [
-      "snd/Vo_keeper_of_the_light_keep_laugh_01.mp3",
-      "snd/Vo_keeper_of_the_light_keep_laugh_02.mp3",
-      "snd/Vo_keeper_of_the_light_keep_laugh_03.mp3",
-      "snd/Vo_keeper_of_the_light_keep_laugh_04.mp3",
-      "snd/Vo_keeper_of_the_light_keep_laugh_05.mp3",
-      "snd/Vo_keeper_of_the_light_keep_laugh_06.mp3"
-    ]
-  },
-  {
-    "name": "Oracle",
-    "portrait": "oracle.png",
-    "vo":
-    [
-      "snd/Vo_oracle_orac_laugh_01.mp3",
-      "snd/Vo_oracle_orac_laugh_02.mp3",
-      "snd/Vo_oracle_orac_laugh_03.mp3",
-      "snd/Vo_oracle_orac_laugh_04.mp3",
-      "snd/Vo_oracle_orac_laugh_05.mp3",
-      "snd/Vo_oracle_orac_laugh_06.mp3",
-      "snd/Vo_oracle_orac_laugh_07.mp3",
-      "snd/Vo_oracle_orac_laugh_08.mp3",
-      "snd/Vo_oracle_orac_laugh_09.mp3",
-      "snd/Vo_oracle_orac_laugh_10.mp3",
-      "snd/Vo_oracle_orac_laugh_11.mp3",
-      "snd/Vo_oracle_orac_laugh_12.mp3",
-      "snd/Vo_oracle_orac_laugh_13.mp3",
-      "snd/Vo_oracle_orac_laugh_14.mp3",
-      "snd/Vo_oracle_orac_laugh_15.mp3",
-      "snd/Vo_oracle_orac_laugh_16.mp3",
-      "snd/Vo_oracle_orac_laugh_17.mp3",
-      "snd/Vo_oracle_orac_laugh_18.mp3",
-      "snd/Vo_oracle_orac_laugh_19.mp3"
-    ]
-  },
-  {
-    "name": "Rattletrap",
-    "portrait": "clock.png",
-    "vo": 
-    [
-      "snd/Vo_rattletrap_ratt_kill_15.mp3",
-      "snd/Vo_rattletrap_ratt_kill_16.mp3",
-      "snd/Vo_rattletrap_ratt_laugh_01.mp3",
-      "snd/Vo_rattletrap_ratt_laugh_02.mp3",
-      "snd/Vo_rattletrap_ratt_laugh_03.mp3",
-      "snd/Vo_rattletrap_ratt_laugh_04.mp3"
-    ]
-  },
-  {
-    "name": "Razor",
-    "portrait": "razor.png",
-    "vo": 
-    [
-      "snd/Vo_razor_raz_laugh_01.mp3",
-      "snd/Vo_razor_raz_laugh_02.mp3",
-      "snd/Vo_razor_raz_laugh_03.mp3",
-      "snd/Vo_razor_raz_laugh_04.mp3",
-      "snd/Vo_razor_raz_laugh_05.mp3",
-      "snd/Vo_razor_raz_laugh_06.mp3"
-    ]
-  },
-  {
-    "name": "Silencer",
-    "portrait": "silencer.png",
-    "vo": 
-    [
-      "snd/Vo_silencer_silen_laugh_01.mp3",
-      "snd/Vo_silencer_silen_laugh_02.mp3",
-      "snd/Vo_silencer_silen_laugh_03.mp3",
-      "snd/Vo_silencer_silen_laugh_04.mp3",
-      "snd/Vo_silencer_silen_laugh_05.mp3",
-      "snd/Vo_silencer_silen_laugh_06.mp3",
-      "snd/Vo_silencer_silen_laugh_07.mp3",
-      "snd/Vo_silencer_silen_laugh_08.mp3",
-      "snd/Vo_silencer_silen_laugh_09.mp3",
-      "snd/Vo_silencer_silen_laugh_10.mp3",
-      "snd/Vo_silencer_silen_laugh_11.mp3",
-      "snd/Vo_silencer_silen_laugh_12.mp3",
-      "snd/Vo_silencer_silen_laugh_13.mp3",
-      "snd/Vo_silencer_silen_laugh_14.mp3" 
-    ]
-  },
-  {
-    "name": "Sniper",
-    "portrait": "ronaldinho.png",
-    "vo": 
-    [
-      "snd/Vo_sniper_snip_laugh_01.mp3",
-      "snd/Vo_sniper_snip_laugh_02.mp3",
-      "snd/Vo_sniper_snip_laugh_03.mp3",
-      "snd/Vo_sniper_snip_laugh_04.mp3",
-      "snd/Vo_sniper_snip_laugh_05.mp3",
-      "snd/Vo_sniper_snip_laugh_06.mp3",
-      "snd/Vo_sniper_snip_laugh_07.mp3",
-      "snd/Vo_sniper_snip_laugh_08.mp3",
-      "snd/Vo_sniper_snip_laugh_09.mp3",
-    ]
-  },
-  {
-    "name": "Warlock",
-    "portrait": "warlock.png",
-    "vo": 
-    [
-      "snd/Vo_warlock_warl_laugh_01.mp3",
-      "snd/Vo_warlock_warl_laugh_02.mp3",
-      "snd/Vo_warlock_warl_laugh_03.mp3",
-      "snd/Vo_warlock_warl_laugh_04.mp3",
-      "snd/Vo_warlock_warl_laugh_05.mp3",
-      "snd/Vo_warlock_warl_laugh_06.mp3"
-    ]
-  }
-];
+var thisdata;
+var currentType;
+var currentHero;
 
+fetch('./parse.json')
+  .then((res) => res.json())
+  .then((data) => parsearHeroes(data));
 
+function parsearHeroes(data){
+  //parsing hero types
+  thisdata = data;
+  addEntries(data, typelist);
+  addEntries(data['AGI'], herolist);
+  currentType = Object.keys(data)[1];
+  typelist.value = currentType;
+  trocarTipo();
+}
 
+function addEntries(data, optionMenu){
+  Object.keys(data).forEach( x => {
+    let no = document.createElement("option");
+    no.value = x;
+    no.textContent = x;
+    optionMenu.appendChild(no);
+  })
+}
 
 let index = 0;
+const herolist = document.querySelector(".herolist");
+const typelist = document.querySelector(".typelist");
+const portrait = document.querySelector("#foto");
 let som = new Audio();
-let herolist = document.querySelector(".herolist");
 
-sndlist.forEach(o => {
-  let no = document.createElement("option");
-  no.value = index++;
-  no.textContent = o.name;
-  herolist.appendChild(no);
-});
 
 Array.prototype.random = function () {
   return this[Math.floor((Math.random()*this.length))];
 }
 
+function trocarTipo(){
+  currentType = typelist.value;
+  herolist.innerHTML = "";
+  addEntries(thisdata[currentType], herolist);
+  trocarHero();
+}
+
 function trocarHero(){
   currentHero = herolist.value;
-  document.querySelector("#editme").textContent = sndlist[currentHero].vo.random();
-  document.querySelector("#foto").src = 'img/' + sndlist[currentHero].portrait;
+  let imagemurl = thisdata[currentType][currentHero]['img'].split('/').pop().replace('_icon.png','.png');
+  //document.querySelector("#editme").textContent = sndlist[currentHero].vo.random();
+  portrait.src = 'img/' + imagemurl;
+  portrait.style = "height: 300px;"
+}
+
+function defaultPortrait(){
+  portrait.src = thisdata[currentType][currentHero]['img'];
+  portrait.style = "height: 150px;"
 }
 
 function rir(){
   currentHero = herolist.value;
-  som.src = sndlist[currentHero].vo.random();
+  som.src = thisdata[currentType][currentHero]['vo'].random();
   som.play();
+}
+
+function sendfunnyimage(){
+  open('https://t.me/diegofernands/')
 }
 
 
 document.querySelector(".herolist").addEventListener("change", trocarHero, false);
+document.querySelector(".typelist").addEventListener("change", trocarTipo, false);
 document.querySelector(".button").addEventListener("click", rir, false);
+document.querySelector(".button2").addEventListener("click", sendfunnyimage, false);
+
+document.querySelector("#foto").addEventListener("error", defaultPortrait, false);
 
 
 
