@@ -1,0 +1,2046 @@
+{
+  "STR": {
+    "Abaddon": {
+      "href": "/wiki/Abaddon",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Abaddon_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_abaddon_abad_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_abaddon_abad_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_abaddon_abad_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_abaddon_abad_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_abaddon_abad_laugh_05.mp3"
+      ]
+    },
+    "Alchemist": {
+      "href": "/wiki/Alchemist",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Alchemist_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_alchemist_alch_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_alchemist_alch_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Vo_alchemist_alch_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_alchemist_alch_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Vo_alchemist_alch_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_alchemist_alch_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_alchemist_alch_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_alchemist_alch_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_alchemist_alch_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_alchemist_alch_laugh_10.mp3"
+      ]
+    },
+    "Axe": {
+      "href": "/wiki/Axe",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Axe_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_axe_axe_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_axe_axe_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_axe_axe_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_axe_axe_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_axe_axe_laugh_05.mp3"
+      ]
+    },
+    "Beastmaster": {
+      "href": "/wiki/Beastmaster",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Beastmaster_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_beastmaster_beas_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_beastmaster_beas_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Vo_beastmaster_beas_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Vo_beastmaster_beas_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_beastmaster_beas_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_beastmaster_beas_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_beastmaster_beas_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_beastmaster_beas_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Vo_beastmaster_beas_laugh_09.mp3"
+      ]
+    },
+    "Brewmaster": {
+      "href": "/wiki/Brewmaster",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Brewmaster_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Vo_brewmaster_brew_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_brewmaster_brew_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_brewmaster_brew_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_brewmaster_brew_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_brewmaster_brew_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_brewmaster_brew_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_brewmaster_brew_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_brewmaster_brew_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f3/Vo_brewmaster_brew_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_brewmaster_brew_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_brewmaster_brew_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_brewmaster_brew_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_brewmaster_brew_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_brewmaster_brew_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_brewmaster_brew_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_brewmaster_brew_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_brewmaster_brew_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_brewmaster_brew_laugh_18.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_brewmaster_brew_laugh_19.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_brewmaster_brew_laugh_20.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_brewmaster_brew_laugh_21.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_brewmaster_brew_laugh_22.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_brewmaster_brew_laugh_23.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_brewmaster_brew_laugh_24.mp3"
+      ]
+    },
+    "Bristleback": {
+      "href": "/wiki/Bristleback",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Bristleback_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_bristleback_bristle_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Vo_bristleback_bristle_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_bristleback_bristle_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_bristleback_bristle_laugh_04.mp3"
+      ]
+    },
+    "Centaur Warrunner": {
+      "href": "/wiki/Centaur_Warrunner",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Centaur_Warrunner_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Vo_centaur_cent_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_centaur_cent_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Vo_centaur_cent_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_centaur_cent_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_centaur_cent_laugh_05.mp3"
+      ]
+    },
+    "Chaos Knight": {
+      "href": "/wiki/Chaos_Knight",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Chaos_Knight_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_chaos_knight_chaknight_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_chaos_knight_chaknight_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Vo_chaos_knight_chaknight_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_chaos_knight_chaknight_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_chaos_knight_chaknight_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_chaos_knight_chaknight_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Vo_chaos_knight_chaknight_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_chaos_knight_chaknight_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_chaos_knight_chaknight_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_chaos_knight_chaknight_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_chaos_knight_chaknight_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_chaos_knight_chaknight_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_chaos_knight_chaknight_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/51/Vo_chaos_knight_chaknight_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_chaos_knight_chaknight_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_chaos_knight_chaknight_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_chaos_knight_chaknight_laugh_17.mp3"
+      ]
+    },
+    "Clockwerk": {
+      "href": "/wiki/Clockwerk",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Clockwerk_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Vo_rattletrap_ratt_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_rattletrap_ratt_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_rattletrap_ratt_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0b/Vo_rattletrap_ratt_laugh_04.mp3"
+      ]
+    },
+    "Dawnbreaker": {
+      "href": "/wiki/Dawnbreaker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Dawnbreaker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_dawnbreaker_valora_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0a/Vo_dawnbreaker_valora_laugh_01_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_dawnbreaker_valora_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_dawnbreaker_valora_laugh_02_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_dawnbreaker_valora_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_dawnbreaker_valora_laugh_03_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_dawnbreaker_valora_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Vo_dawnbreaker_valora_laugh_04_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_dawnbreaker_valora_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_dawnbreaker_valora_laugh_05_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_dawnbreaker_valora_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Vo_dawnbreaker_valora_laugh_06_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_dawnbreaker_valora_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_dawnbreaker_valora_laugh_07_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_dawnbreaker_valora_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/31/Vo_dawnbreaker_valora_laugh_08_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_dawnbreaker_valora_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_dawnbreaker_valora_laugh_09_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_dawnbreaker_valora_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_dawnbreaker_valora_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_dawnbreaker_valora_laugh_12.mp3"
+      ]
+    },
+    "Doom": {
+      "href": "/wiki/Doom",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Doom_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_doom_bringer_doom_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_doom_bringer_doom_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_doom_bringer_doom_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_doom_bringer_doom_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_doom_bringer_doom_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_doom_bringer_doom_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_doom_bringer_doom_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_doom_bringer_doom_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_doom_bringer_doom_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_doom_bringer_doom_laugh_10.mp3"
+      ]
+    },
+    "Dragon Knight": {
+      "href": "/wiki/Dragon_Knight",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Dragon_Knight_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_dragon_knight_drag_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_dragon_knight_dragon_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_dragon_knight_drag_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_dragon_knight_dragon_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_dragon_knight_drag_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_dragon_knight_dragon_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_dragon_knight_drag_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_dragon_knight_dragon_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_dragon_knight_drag_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_dragon_knight_dragon_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_dragon_knight_drag_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_dragon_knight_dragon_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_dragon_knight_drag_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_dragon_knight_dragon_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_dragon_knight_drag_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_dragon_knight_dragon_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_dragon_knight_drag_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_dragon_knight_dragon_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_dragon_knight_drag_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_dragon_knight_dragon_laugh_10.mp3"
+      ]
+    },
+    "Earth Spirit": {
+      "href": "/wiki/Earth_Spirit",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Earth_Spirit_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_earth_spirit_earthspi_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_earth_spirit_earthspi_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_earth_spirit_earthspi_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_earth_spirit_earthspi_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_earth_spirit_earthspi_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_earth_spirit_earthspi_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Vo_earth_spirit_earthspi_laugh_07.mp3"
+      ]
+    },
+    "Earthshaker": {
+      "href": "/wiki/Earthshaker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Earthshaker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3d/Vo_earthshaker_erth_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_earthshaker_erth_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_earthshaker_erth_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_earthshaker_erth_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_earthshaker_erth_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ae/Vo_earthshaker_erth_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_earthshaker_erth_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_earthshaker_erth_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_earthshaker_erth_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_earthshaker_erth_laugh_10.mp3"
+      ]
+    },
+    "Elder Titan": {
+      "href": "/wiki/Elder_Titan",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Elder_Titan_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_elder_titan_elder_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_elder_titan_elder_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_elder_titan_elder_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_elder_titan_elder_laugh_08.mp3"
+      ]
+    },
+    "Huskar": {
+      "href": "/wiki/Huskar",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Huskar_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_huskar_husk_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_huskar_husk_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_huskar_husk_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_huskar_husk_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Vo_huskar_husk_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_huskar_husk_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_huskar_husk_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_huskar_husk_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Vo_huskar_husk_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_huskar_husk_laugh_10.mp3"
+      ]
+    },
+    "Io": {
+      "href": "/wiki/Io",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Io_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_wisp_laugh.mp3"
+      ]
+    },
+    "Kunkka": {
+      "href": "/wiki/Kunkka",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Kunkka_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_kunkka_kunk_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_kunkka_kunk_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_kunkka_kunk_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_kunkka_kunk_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_kunkka_kunk_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_kunkka_kunk_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7c/Vo_kunkka_kunk_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_kunkka_kunk_laugh_08.mp3"
+      ]
+    },
+    "Legion Commander": {
+      "href": "/wiki/Legion_Commander",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Legion_Commander_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_legion_commander_legcom_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_legion_commander_legcom_dem_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_legion_commander_legcom_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_legion_commander_legcom_dem_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Vo_legion_commander_legcom_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_legion_commander_legcom_dem_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_legion_commander_legcom_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_legion_commander_legcom_dem_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_legion_commander_legcom_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_legion_commander_legcom_dem_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/45/Vo_legion_commander_legcom_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_legion_commander_legcom_dem_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Vo_legion_commander_legcom_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_legion_commander_legcom_dem_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_legion_commander_legcom_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_legion_commander_legcom_dem_laugh_08.mp3"
+      ]
+    },
+    "Lifestealer": {
+      "href": "/wiki/Lifestealer",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Lifestealer_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_life_stealer_lifest_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_life_stealer_lifest_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_life_stealer_lifest_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_life_stealer_lifest_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_life_stealer_lifest_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_life_stealer_lifest_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_life_stealer_lifest_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Vo_life_stealer_lifest_laugh_08.mp3"
+      ]
+    },
+    "Lycan": {
+      "href": "/wiki/Lycan",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Lycan_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_lycan_lycan_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_lycan_lycan_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_lycan_lycan_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_lycan_lycan_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_lycan_lycan_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_lycan_lycan_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_lycan_lycan_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ce/Vo_lycan_lycan_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Vo_lycan_lycan_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Vo_lycan_lycan_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_lycan_lycan_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_lycan_lycan_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_lycan_lycan_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_lycan_lycan_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_lycan_lycan_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_lycan_lycan_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Vo_lycan_lycan_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_lycan_lycan_laugh_18.mp3"
+      ]
+    },
+    "Magnus": {
+      "href": "/wiki/Magnus",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Magnus_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_magnataur_magn_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_magnataur_magn_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_magnataur_magn_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_magnataur_magn_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Vo_magnataur_magn_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_magnataur_magn_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_magnataur_magn_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_magnataur_magn_laugh_08.mp3"
+      ]
+    },
+    "Marci": {
+      "href": "/wiki/Marci",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Marci_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_marci_marci_laugh.mp3"
+      ]
+    },
+    "Mars": {
+      "href": "/wiki/Mars",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Mars_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_mars_mars_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_mars_mars_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_mars_mars_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/62/Vo_mars_mars_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_mars_mars_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Vo_mars_mars_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_mars_mars_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_mars_mars_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Vo_mars_mars_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_mars_mars_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_mars_mars_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Vo_mars_mars_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_mars_mars_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_mars_mars_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_mars_mars_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_mars_mars_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_mars_mars_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_mars_mars_laugh_18.mp3"
+      ]
+    },
+    "Night Stalker": {
+      "href": "/wiki/Night_Stalker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Night_Stalker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_night_stalker_nstalk_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_night_stalker_nstalk_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_night_stalker_nstalk_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_night_stalker_nstalk_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_night_stalker_nstalk_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_night_stalker_nstalk_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_night_stalker_nstalk_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_night_stalker_nstalk_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_night_stalker_nstalk_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Vo_night_stalker_nstalk_laugh_10.mp3"
+      ]
+    },
+    "Omniknight": {
+      "href": "/wiki/Omniknight",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Omniknight_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Vo_omniknight_omni_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_omniknight_omni_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Vo_omniknight_omni_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_omniknight_omni_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_omniknight_omni_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_omniknight_omni_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_omniknight_omni_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_omniknight_omni_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_omniknight_omni_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_omniknight_omni_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_omniknight_omni_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_omniknight_omni_laugh_12.mp3"
+      ]
+    },
+    "Phoenix": {
+      "href": "/wiki/Phoenix",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Phoenix_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_phoenix_phoenix_bird_laugh.mp3"
+      ]
+    },
+    "Pudge": {
+      "href": "/wiki/Pudge",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Pudge_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_pudge_pud_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_pudge_pud_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/45/Vo_pudge_pud_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_pudge_pud_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Vo_pudge_pud_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_pudge_pud_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_pudge_pud_laugh_07.mp3"
+      ]
+    },
+    "Sand King": {
+      "href": "/wiki/Sand_King",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Sand_King_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_sandking_skg_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_sandking_skg_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_sandking_skg_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_sandking_skg_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_sandking_skg_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_sandking_skg_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_sandking_skg_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_sandking_skg_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_sandking_skg_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_sandking_skg_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_sandking_skg_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_sandking_skg_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Vo_sandking_skg_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_sandking_skg_laugh_14.mp3"
+      ]
+    },
+    "Slardar": {
+      "href": "/wiki/Slardar",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Slardar_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_slardar_slar_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_slardar_slar_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Vo_slardar_slar_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_slardar_slar_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_slardar_slar_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7c/Vo_slardar_slar_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Vo_slardar_slar_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_slardar_slar_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_slardar_slar_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_slardar_slar_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_slardar_slar_laugh_11.mp3"
+      ]
+    },
+    "Snapfire": {
+      "href": "/wiki/Snapfire",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Snapfire_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_snapfire_snapfire_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Vo_snapfire_snapfire_laugh_01_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_snapfire_snapfire_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_snapfire_snapfire_laugh_02_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_snapfire_snapfire_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ce/Vo_snapfire_snapfire_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_snapfire_snapfire_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_snapfire_snapfire_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_snapfire_snapfire_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_snapfire_snapfire_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_snapfire_snapfire_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_snapfire_snapfire_laugh_10.mp3"
+      ]
+    },
+    "Spirit Breaker": {
+      "href": "/wiki/Spirit_Breaker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Spirit_Breaker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_spirit_breaker_spir_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_spirit_breaker_spir_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_spirit_breaker_spir_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Vo_spirit_breaker_spir_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_spirit_breaker_spir_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_spirit_breaker_spir_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_spirit_breaker_spir_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/de/Vo_spirit_breaker_spir_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_spirit_breaker_spir_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_spirit_breaker_spir_laugh_10.mp3"
+      ]
+    },
+    "Sven": {
+      "href": "/wiki/Sven",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Sven_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_sven_sven_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_sven_sven_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_sven_sven_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_sven_sven_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_sven_sven_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_sven_sven_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_sven_sven_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Vo_sven_sven_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Vo_sven_sven_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_sven_sven_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_sven_sven_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_sven_sven_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_sven_sven_laugh_13.mp3"
+      ]
+    },
+    "Tidehunter": {
+      "href": "/wiki/Tidehunter",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Tidehunter_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Vo_tidehunter_tide_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_tidehunter_tide_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_tidehunter_tide_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_tidehunter_tide_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_tidehunter_tide_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_tidehunter_tide_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3d/Vo_tidehunter_tide_laugh_07.mp3"
+      ]
+    },
+    "Timbersaw": {
+      "href": "/wiki/Timbersaw",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Timbersaw_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_shredder_timb_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_shredder_timb_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_shredder_timb_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_shredder_timb_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Vo_shredder_timb_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_shredder_timb_laugh_06.mp3"
+      ]
+    },
+    "Tiny": {
+      "href": "/wiki/Tiny",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Tiny_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_tiny_tiny_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_tiny_tiny_pres_t1_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_tiny_tiny_pres_t2_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_tiny_tiny_pres_t3_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b5/Vo_tiny_tiny_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_tiny_tiny_pres_t1_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_tiny_tiny_pres_t2_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0b/Vo_tiny_tiny_pres_t3_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Vo_tiny_tiny_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_tiny_tiny_pres_t1_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_tiny_tiny_pres_t2_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_tiny_tiny_pres_t3_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_tiny_tiny_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_tiny_tiny_pres_t1_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_tiny_tiny_pres_t2_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_tiny_tiny_pres_t3_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_tiny_tiny_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_tiny_tiny_pres_t1_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_tiny_tiny_pres_t2_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_tiny_tiny_pres_t3_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_tiny_tiny_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_tiny_tiny_pres_t1_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_tiny_tiny_pres_t2_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_tiny_tiny_pres_t3_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_tiny_tiny_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_tiny_tiny_pres_t1_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_tiny_tiny_pres_t2_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_tiny_tiny_pres_t3_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_tiny_tiny_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_tiny_tiny_pres_t1_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Vo_tiny_tiny_pres_t2_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_tiny_tiny_pres_t3_laugh_08.mp3"
+      ]
+    },
+    "Treant Protector": {
+      "href": "/wiki/Treant_Protector",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Treant_Protector_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Vo_treant_treant_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_treant_treant_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_treant_treant_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_treant_treant_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_treant_treant_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_treant_treant_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_treant_treant_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_treant_treant_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_treant_treant_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_treant_treant_deny_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_treant_treant_deny_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_treant_treant_deny_13.mp3"
+      ]
+    },
+    "Tusk": {
+      "href": "/wiki/Tusk",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ce/Tusk_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_tusk_tusk_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_tusk_tusk_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/53/Vo_tusk_tusk_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_tusk_tusk_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_tusk_tusk_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_tusk_tusk_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_tusk_tusk_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_tusk_tusk_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_tusk_tusk_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Vo_tusk_tusk_laugh_10.mp3"
+      ]
+    },
+    "Underlord": {
+      "href": "/wiki/Underlord",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Underlord_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_abyssal_underlord_abys_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_abyssal_underlord_abys_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_abyssal_underlord_abys_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_abyssal_underlord_abys_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_abyssal_underlord_abys_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_abyssal_underlord_abys_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_abyssal_underlord_abys_laugh_08.mp3"
+      ]
+    },
+    "Undying": {
+      "href": "/wiki/Undying",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Undying_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_undying_undying_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_undying_undying_big_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_undying_undying_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_undying_undying_big_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_undying_undying_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Vo_undying_undying_big_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_undying_undying_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_undying_undying_big_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_undying_undying_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Vo_undying_undying_big_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_undying_undying_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6a/Vo_undying_undying_big_laugh_07.mp3"
+      ]
+    },
+    "Wraith King": {
+      "href": "/wiki/Wraith_King",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Wraith_King_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_skeleton_king_wraith_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_skeleton_king_wraith_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/45/Vo_skeleton_king_wraith_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_skeleton_king_wraith_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_skeleton_king_wraith_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_skeleton_king_wraith_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_skeleton_king_wraith_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_skeleton_king_wraith_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_skeleton_king_wraith_laugh_09.mp3"
+      ]
+    }
+  },
+  "AGI": {
+    "Anti-Mage": {
+      "href": "/wiki/Anti-Mage",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Anti-Mage_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_antimage_anti_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_antimage_anti_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_antimage_anti_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_antimage_anti_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_antimage_anti_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_antimage_anti_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_antimage_anti_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_antimage_anti_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Vo_antimage_anti_laugh_09.mp3"
+      ]
+    },
+    "Arc Warden": {
+      "href": "/wiki/Arc_Warden",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Arc_Warden_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_arc_warden_arcwar_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Vo_arc_warden_arcwar_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_arc_warden_arcwar_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Vo_arc_warden_arcwar_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_arc_warden_arcwar_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_arc_warden_arcwar_laugh_06.mp3"
+      ]
+    },
+    "Bloodseeker": {
+      "href": "/wiki/Bloodseeker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Bloodseeker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_bloodseeker_blod_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_bloodseeker_blod_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_bloodseeker_blod_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_bloodseeker_blod_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_bloodseeker_blod_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_bloodseeker_blod_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_bloodseeker_blod_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_bloodseeker_blod_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Vo_bloodseeker_blod_laugh_09.mp3"
+      ]
+    },
+    "Bounty Hunter": {
+      "href": "/wiki/Bounty_Hunter",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Bounty_Hunter_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_bounty_hunter_bount_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Vo_bounty_hunter_bount_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_bounty_hunter_bount_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_bounty_hunter_bount_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Vo_bounty_hunter_bount_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_bounty_hunter_bount_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_bounty_hunter_bount_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_bounty_hunter_bount_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_bounty_hunter_bount_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_bounty_hunter_bount_laugh_10.mp3"
+      ]
+    },
+    "Broodmother": {
+      "href": "/wiki/Broodmother",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Broodmother_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_broodmother_broo_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_broodmother_broo_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_broodmother_broo_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_broodmother_broo_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_broodmother_broo_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_broodmother_broo_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_broodmother_broo_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_broodmother_broo_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_broodmother_broo_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_broodmother_broo_laugh_10.mp3"
+      ]
+    },
+    "Clinkz": {
+      "href": "/wiki/Clinkz",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Clinkz_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_clinkz_clinkz_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Vo_clinkz_clinkz_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_clinkz_clinkz_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_clinkz_clinkz_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_clinkz_clinkz_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_clinkz_clinkz_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_clinkz_clinkz_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/46/Vo_clinkz_clinkz_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_clinkz_clinkz_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_clinkz_clinkz_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_clinkz_clinkz_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Vo_clinkz_clinkz_laugh_12.mp3"
+      ]
+    },
+    "Drow Ranger": {
+      "href": "/wiki/Drow_Ranger",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Drow_Ranger_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_drowranger_dro_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_drowranger_dro_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_drowranger_dro_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_drowranger_dro_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_drowranger_dro_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_drowranger_dro_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_drowranger_dro_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_drowranger_dro_laugh_08.mp3"
+      ]
+    },
+    "Ember Spirit": {
+      "href": "/wiki/Ember_Spirit",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Ember_Spirit_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_ember_spirit_embr_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_ember_spirit_embr_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_ember_spirit_embr_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_ember_spirit_embr_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_ember_spirit_embr_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_ember_spirit_embr_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_ember_spirit_embr_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_ember_spirit_embr_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_ember_spirit_embr_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_ember_spirit_embr_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0a/Vo_ember_spirit_embr_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_ember_spirit_embr_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_ember_spirit_embr_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_ember_spirit_embr_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_ember_spirit_embr_laugh_18.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_ember_spirit_embr_laugh_19.mp3"
+      ]
+    },
+    "Faceless Void": {
+      "href": "/wiki/Faceless_Void",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Faceless_Void_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Vo_faceless_void_face_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_faceless_void_face_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_faceless_void_face_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_faceless_void_face_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_faceless_void_face_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Vo_faceless_void_face_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_faceless_void_face_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_faceless_void_face_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_faceless_void_face_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_faceless_void_face_laugh_10.mp3"
+      ]
+    },
+    "Gyrocopter": {
+      "href": "/wiki/Gyrocopter",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Gyrocopter_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Vo_gyrocopter_gyro_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_gyrocopter_gyro_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_gyrocopter_gyro_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_gyrocopter_gyro_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_gyrocopter_gyro_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_gyrocopter_gyro_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_gyrocopter_gyro_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Vo_gyrocopter_gyro_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Vo_gyrocopter_gyro_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_gyrocopter_gyro_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_gyrocopter_gyro_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ce/Vo_gyrocopter_gyro_laugh_12.mp3"
+      ]
+    },
+    "Hoodwink": {
+      "href": "/wiki/Hoodwink",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Hoodwink_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_hoodwink_hoodwink_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e8/Vo_hoodwink_hoodwink_laugh_01_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Vo_hoodwink_hoodwink_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Vo_hoodwink_hoodwink_laugh_02_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_hoodwink_hoodwink_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_hoodwink_hoodwink_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_hoodwink_hoodwink_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_hoodwink_hoodwink_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e8/Vo_hoodwink_hoodwink_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_hoodwink_hoodwink_laugh_07_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_hoodwink_hoodwink_laugh_07_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_hoodwink_hoodwink_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_hoodwink_hoodwink_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_hoodwink_hoodwink_laugh_09_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_hoodwink_hoodwink_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_hoodwink_hoodwink_laugh_11.mp3"
+      ]
+    },
+    "Juggernaut": {
+      "href": "/wiki/Juggernaut",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Juggernaut_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_juggernaut_jug_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_juggernaut_jugsc_arc_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_juggernaut_jug_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_juggernaut_jugsc_arc_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_juggernaut_jug_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_juggernaut_jugsc_arc_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_juggernaut_jug_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_juggernaut_jugsc_arc_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Vo_juggernaut_jug_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_juggernaut_jugsc_arc_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Vo_juggernaut_jug_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_juggernaut_jugsc_arc_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_juggernaut_jug_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_juggernaut_jugsc_arc_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_juggernaut_jug_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_juggernaut_jugsc_arc_laugh_08.mp3"
+      ]
+    },
+    "Lone Druid": {
+      "href": "/wiki/Lone_Druid",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Lone_Druid_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_lone_druid_lone_druid_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_lone_druid_lone_druid_bearform_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_lone_druid_lone_druid_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_lone_druid_lone_druid_bearform_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_lone_druid_lone_druid_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b5/Vo_lone_druid_lone_druid_bearform_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_lone_druid_lone_druid_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/Vo_lone_druid_lone_druid_bearform_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_lone_druid_lone_druid_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_lone_druid_lone_druid_bearform_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_lone_druid_lone_druid_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_lone_druid_lone_druid_bearform_laugh_06.mp3"
+      ]
+    },
+    "Luna": {
+      "href": "/wiki/Luna",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Luna_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_luna_luna_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_luna_luna_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_luna_luna_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_luna_luna_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_luna_luna_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_luna_luna_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_luna_luna_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_luna_luna_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_luna_luna_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_luna_luna_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_luna_luna_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7c/Vo_luna_luna_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_luna_luna_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_luna_luna_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_luna_luna_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_luna_luna_laugh_17.mp3"
+      ]
+    },
+    "Medusa": {
+      "href": "/wiki/Medusa",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Medusa_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_medusa_medus_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_medusa_medus_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_medusa_medus_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_medusa_medus_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_medusa_medus_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_medusa_medus_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_medusa_medus_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_medusa_medus_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_medusa_medus_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_medusa_medus_laugh_10.mp3"
+      ]
+    },
+    "Meepo": {
+      "href": "/wiki/Meepo",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Meepo_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_meepo_meepo_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_meepo_meepo_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_meepo_meepo_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_meepo_meepo_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_meepo_meepo_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_meepo_meepo_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_meepo_meepo_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Vo_meepo_meepo_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_meepo_meepo_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_meepo_meepo_laugh_10.mp3"
+      ]
+    },
+    "Mirana": {
+      "href": "/wiki/Mirana",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Mirana_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_mirana_mir_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_mirana_mir_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_mirana_mir_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_mirana_mir_laugh_04.mp3"
+      ]
+    },
+    "Monkey King": {
+      "href": "/wiki/Monkey_King",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Monkey_King_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_monkey_king_monkey_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_monkey_king_monkey_crown_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_monkey_king_monkey_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_monkey_king_monkey_crown_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_monkey_king_monkey_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_monkey_king_monkey_crown_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/45/Vo_monkey_king_monkey_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7c/Vo_monkey_king_monkey_crown_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_monkey_king_monkey_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_monkey_king_monkey_crown_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_monkey_king_monkey_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_monkey_king_monkey_crown_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_monkey_king_monkey_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_monkey_king_monkey_crown_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_monkey_king_monkey_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_monkey_king_monkey_crown_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_monkey_king_monkey_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_monkey_king_monkey_crown_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_monkey_king_monkey_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_monkey_king_monkey_crown_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_monkey_king_monkey_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/45/Vo_monkey_king_monkey_crown_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_monkey_king_monkey_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_monkey_king_monkey_crown_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_monkey_king_monkey_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_monkey_king_monkey_crown_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Vo_monkey_king_monkey_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_monkey_king_monkey_crown_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Vo_monkey_king_monkey_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_monkey_king_monkey_crown_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_monkey_king_monkey_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_monkey_king_monkey_crown_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_monkey_king_monkey_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_monkey_king_monkey_crown_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Vo_monkey_king_monkey_laugh_18.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_monkey_king_monkey_crown_laugh_18.mp3"
+      ]
+    },
+    "Morphling": {
+      "href": "/wiki/Morphling",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Morphling_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_morphling_mrph_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_morphling_mrph_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_morphling_mrph_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_morphling_mrph_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/de/Vo_morphling_mrph_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_morphling_mrph_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_morphling_mrph_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Vo_morphling_mrph_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_morphling_mrph_laugh_10.mp3"
+      ]
+    },
+    "Naga Siren": {
+      "href": "/wiki/Naga_Siren",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Naga_Siren_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_naga_siren_naga_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_naga_siren_naga_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_naga_siren_naga_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_naga_siren_naga_laugh_04.mp3"
+      ]
+    },
+    "Nyx Assassin": {
+      "href": "/wiki/Nyx_Assassin",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Nyx_Assassin_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_nyx_assassin_nyx_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_nyx_assassin_nyx_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Vo_nyx_assassin_nyx_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_nyx_assassin_nyx_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_nyx_assassin_nyx_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_nyx_assassin_nyx_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Vo_nyx_assassin_nyx_laugh_07.mp3"
+      ]
+    },
+    "Pangolier": {
+      "href": "/wiki/Pangolier",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Pangolier_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_pangolin_pangolin_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_pangolin_pangolin_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_pangolin_pangolin_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_pangolin_pangolin_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_pangolin_pangolin_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_pangolin_pangolin_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_pangolin_pangolin_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_pangolin_pangolin_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_pangolin_pangolin_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_pangolin_pangolin_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_pangolin_pangolin_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ae/Vo_pangolin_pangolin_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_pangolin_pangolin_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_pangolin_pangolin_laugh_14.mp3"
+      ]
+    },
+    "Phantom Assassin": {
+      "href": "/wiki/Phantom_Assassin",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Phantom_Assassin_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_phantom_assassin_phass_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_phantom_assassin_phass_arc_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Vo_phantom_assassin_phass_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_phantom_assassin_phass_arc_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_phantom_assassin_phass_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_phantom_assassin_phass_arc_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_phantom_assassin_phass_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_phantom_assassin_phass_arc_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_phantom_assassin_phass_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_phantom_assassin_phass_arc_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Vo_phantom_assassin_phass_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b5/Vo_phantom_assassin_phass_arc_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_phantom_assassin_phass_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_phantom_assassin_phass_arc_laugh_07.mp3"
+      ]
+    },
+    "Phantom Lancer": {
+      "href": "/wiki/Phantom_Lancer",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Phantom_Lancer_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_phantom_lancer_plance_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_phantom_lancer_plance_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_phantom_lancer_plance_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_phantom_lancer_plance_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_phantom_lancer_plance_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Vo_phantom_lancer_plance_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Vo_phantom_lancer_plance_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_phantom_lancer_plance_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_phantom_lancer_plance_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_phantom_lancer_plance_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_phantom_lancer_plance_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_phantom_lancer_plance_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_phantom_lancer_plance_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_phantom_lancer_plance_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Vo_phantom_lancer_plance_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_phantom_lancer_plance_laugh_16.mp3"
+      ]
+    },
+    "Razor": {
+      "href": "/wiki/Razor",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Razor_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_razor_raz_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_razor_raz_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_razor_raz_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_razor_raz_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_razor_raz_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_razor_raz_laugh_06.mp3"
+      ]
+    },
+    "Riki": {
+      "href": "/wiki/Riki",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Riki_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_riki_riki_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_riki_riki_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_riki_riki_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_riki_riki_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_riki_riki_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_riki_riki_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a3/Vo_riki_riki_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_riki_riki_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Vo_riki_riki_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_riki_riki_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_riki_riki_laugh_11.mp3"
+      ]
+    },
+    "Shadow Fiend": {
+      "href": "/wiki/Shadow_Fiend",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Shadow_Fiend_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_nevermore_nev_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_nevermore_nev_arc_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_nevermore_nev_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/Vo_nevermore_nev_arc_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_nevermore_nev_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_nevermore_nev_arc_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_nevermore_nev_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_nevermore_nev_arc_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_nevermore_nev_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Vo_nevermore_nev_arc_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_nevermore_nev_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f3/Vo_nevermore_nev_arc_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Vo_nevermore_nev_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Vo_nevermore_nev_arc_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Vo_nevermore_nev_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_nevermore_nev_arc_laugh_08.mp3"
+      ]
+    },
+    "Slark": {
+      "href": "/wiki/Slark",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Slark_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_slark_slark_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_slark_slark_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_slark_slark_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_slark_slark_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_slark_slark_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_slark_slark_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_slark_slark_laugh_07.mp3"
+      ]
+    },
+    "Sniper": {
+      "href": "/wiki/Sniper",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/51/Sniper_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_sniper_snip_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_sniper_helmet_snip_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_sniper_snip_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_sniper_helmet_snip_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_sniper_snip_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_sniper_helmet_snip_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_sniper_snip_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_sniper_helmet_snip_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_sniper_snip_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_sniper_helmet_snip_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_sniper_snip_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_sniper_helmet_snip_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_sniper_snip_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_sniper_helmet_snip_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_sniper_snip_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_sniper_helmet_snip_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_sniper_snip_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_sniper_helmet_snip_laugh_09.mp3"
+      ]
+    },
+    "Spectre": {
+      "href": "/wiki/Spectre",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Spectre_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_spectre_spec_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_spectre_spec_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_spectre_spec_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_spectre_spec_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Vo_spectre_spec_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_spectre_spec_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/de/Vo_spectre_spec_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_spectre_spec_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_spectre_spec_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_spectre_spec_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_spectre_spec_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_spectre_spec_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_spectre_spec_laugh_13.mp3"
+      ]
+    },
+    "Templar Assassin": {
+      "href": "/wiki/Templar_Assassin",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Templar_Assassin_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_templar_assassin_temp_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_templar_assassin_temp_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_templar_assassin_temp_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_templar_assassin_temp_laugh_05.mp3"
+      ]
+    },
+    "Terrorblade": {
+      "href": "/wiki/Terrorblade",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Terrorblade_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_terrorblade_terr_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Vo_terrorblade_terr_morph_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_terrorblade_terr_shards_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_terrorblade_terr_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_terrorblade_terr_morph_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Vo_terrorblade_terr_shards_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Vo_terrorblade_terr_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_terrorblade_terr_morph_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Vo_terrorblade_terr_shards_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_terrorblade_terr_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_terrorblade_terr_morph_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f3/Vo_terrorblade_terr_shards_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_terrorblade_terr_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_terrorblade_terr_morph_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_terrorblade_terr_shards_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_terrorblade_terr_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_terrorblade_terr_morph_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_terrorblade_terr_shards_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_terrorblade_terr_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_terrorblade_terr_morph_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_terrorblade_terr_shards_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Vo_terrorblade_terr_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_terrorblade_terr_morph_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_terrorblade_terr_shards_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_terrorblade_terr_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_terrorblade_terr_morph_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_terrorblade_terr_shards_laugh_09.mp3"
+      ]
+    },
+    "Troll Warlord": {
+      "href": "/wiki/Troll_Warlord",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Troll_Warlord_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_troll_warlord_troll_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_troll_warlord_troll_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_troll_warlord_troll_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_troll_warlord_troll_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_troll_warlord_troll_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_troll_warlord_troll_laugh_07.mp3"
+      ]
+    },
+    "Ursa": {
+      "href": "/wiki/Ursa",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Ursa_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_ursa_ursa_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_ursa_ursa_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Vo_ursa_ursa_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_ursa_ursa_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_ursa_ursa_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_ursa_ursa_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_ursa_ursa_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_ursa_ursa_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_ursa_ursa_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_ursa_ursa_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_ursa_ursa_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_ursa_ursa_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_ursa_ursa_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_ursa_ursa_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_ursa_ursa_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Vo_ursa_ursa_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_ursa_ursa_laugh_18.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_ursa_ursa_laugh_19.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_ursa_ursa_laugh_20.mp3"
+      ]
+    },
+    "Vengeful Spirit": {
+      "href": "/wiki/Vengeful_Spirit",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vengeful_Spirit_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_vengefulspirit_vng_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Vo_vengefulspirit_vng_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_vengefulspirit_vng_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_vengefulspirit_vng_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_vengefulspirit_vng_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/Vo_vengefulspirit_vng_laugh_06.mp3"
+      ]
+    },
+    "Venomancer": {
+      "href": "/wiki/Venomancer",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Venomancer_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_venomancer_venm_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_venomancer_venm_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_venomancer_venm_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_venomancer_venm_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0b/Vo_venomancer_venm_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_venomancer_venm_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_venomancer_venm_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_venomancer_venm_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Vo_venomancer_venm_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_venomancer_venm_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_venomancer_venm_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_venomancer_venm_laugh_12.mp3"
+      ]
+    },
+    "Viper": {
+      "href": "/wiki/Viper",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Viper_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_viper_vipe_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_viper_vipe_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Vo_viper_vipe_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_viper_vipe_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_viper_vipe_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_viper_vipe_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_viper_vipe_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_viper_vipe_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_viper_vipe_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_viper_vipe_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_viper_vipe_laugh_11.mp3"
+      ]
+    },
+    "Weaver": {
+      "href": "/wiki/Weaver",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Weaver_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_weaver_weav_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_weaver_weav_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_weaver_weav_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_weaver_weav_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_weaver_weav_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_weaver_weav_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_weaver_weav_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_weaver_weav_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_weaver_weav_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_weaver_weav_laugh_10.mp3"
+      ]
+    }
+  },
+  "INT": {
+    "Ancient Apparition": {
+      "href": "/wiki/Ancient_Apparition",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Ancient_Apparition_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_ancient_apparition_appa_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_ancient_apparition_appa_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_ancient_apparition_appa_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_ancient_apparition_appa_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_ancient_apparition_appa_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_ancient_apparition_appa_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_ancient_apparition_appa_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_ancient_apparition_appa_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_ancient_apparition_appa_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_ancient_apparition_appa_laugh_10.mp3"
+      ]
+    },
+    "Bane": {
+      "href": "/wiki/Bane",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Bane_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_bane_bane_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Vo_bane_bane_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_bane_bane_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_bane_bane_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_bane_bane_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_bane_bane_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_bane_bane_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_bane_bane_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_bane_bane_laugh_09.mp3"
+      ]
+    },
+    "Batrider": {
+      "href": "/wiki/Batrider",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Batrider_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0b/Vo_batrider_bat_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_batrider_bat_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_batrider_bat_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/31/Vo_batrider_bat_laugh_04.mp3"
+      ]
+    },
+    "Chen": {
+      "href": "/wiki/Chen",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Chen_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_chen_chen_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_chen_chen_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_chen_chen_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_chen_chen_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_chen_chen_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_chen_chen_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Vo_chen_chen_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_chen_chen_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Vo_chen_chen_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_chen_chen_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_chen_chen_laugh_11.mp3"
+      ]
+    },
+    "Crystal Maiden": {
+      "href": "/wiki/Crystal_Maiden",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Crystal_Maiden_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_crystalmaiden_cm_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_crystalmaiden_cm_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_crystalmaiden_cm_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_crystalmaiden_cm_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_crystalmaiden_cm_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Vo_crystalmaiden_cm_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_crystalmaiden_cm_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_crystalmaiden_cm_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_crystalmaiden_cm_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_crystalmaiden_cm_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_crystalmaiden_cm_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_crystalmaiden_cm_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_crystalmaiden_cm_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Vo_crystalmaiden_cm_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_crystalmaiden_cm_laugh_15.mp3"
+      ]
+    },
+    "Dark Seer": {
+      "href": "/wiki/Dark_Seer",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Dark_Seer_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_dark_seer_dkseer_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_dark_seer_dkseer_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_dark_seer_dkseer_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_dark_seer_dkseer_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_dark_seer_dkseer_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Vo_dark_seer_dkseer_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_dark_seer_dkseer_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_dark_seer_dkseer_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_dark_seer_dkseer_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Vo_dark_seer_dkseer_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_dark_seer_dkseer_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_dark_seer_dkseer_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_dark_seer_dkseer_laugh_13.mp3"
+      ]
+    },
+    "Dark Willow": {
+      "href": "/wiki/Dark_Willow",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Dark_Willow_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_dark_willow_sylph_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_dark_willow_sylph_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_dark_willow_sylph_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_dark_willow_sylph_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_dark_willow_sylph_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Vo_dark_willow_sylph_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_dark_willow_sylph_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_dark_willow_sylph_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_dark_willow_sylph_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_dark_willow_sylph_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_dark_willow_sylph_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_dark_willow_sylph_laugh_12.mp3"
+      ]
+    },
+    "Dazzle": {
+      "href": "/wiki/Dazzle",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Dazzle_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Vo_dazzle_dazz_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_dazzle_dazz_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_dazzle_dazz_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_dazzle_dazz_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_dazzle_dazz_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_dazzle_dazz_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_dazzle_dazz_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_dazzle_dazz_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_dazzle_dazz_laugh_09.mp3"
+      ]
+    },
+    "Death Prophet": {
+      "href": "/wiki/Death_Prophet",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Death_Prophet_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Vo_death_prophet_dpro_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_death_prophet_dpro_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_death_prophet_dpro_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_death_prophet_dpro_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_death_prophet_dpro_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Vo_death_prophet_dpro_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_death_prophet_dpro_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/Vo_death_prophet_dpro_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_death_prophet_dpro_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_death_prophet_dpro_laugh_010.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_death_prophet_dpro_laugh_011.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_death_prophet_dpro_laugh_012.mp3"
+      ]
+    },
+    "Disruptor": {
+      "href": "/wiki/Disruptor",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Disruptor_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_disruptor_dis_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Vo_disruptor_dis_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_disruptor_dis_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_disruptor_dis_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_disruptor_dis_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_disruptor_dis_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_disruptor_dis_laugh_07.mp3"
+      ]
+    },
+    "Enchantress": {
+      "href": "/wiki/Enchantress",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Enchantress_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_enchantress_ench_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_enchantress_ench_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_enchantress_ench_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_enchantress_ench_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_enchantress_ench_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_enchantress_ench_laugh_06.mp3"
+      ]
+    },
+    "Enigma": {
+      "href": "/wiki/Enigma",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Enigma_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_enigma_enig_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_enigma_enig_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_enigma_enig_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_enigma_enig_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Vo_enigma_enig_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_enigma_enig_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_enigma_enig_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_enigma_enig_laugh_08.mp3"
+      ]
+    },
+    "Grimstroke": {
+      "href": "/wiki/Grimstroke",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Grimstroke_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Vo_grimstroke_grimstroke_attack_big_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Vo_grimstroke_grimstroke_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_grimstroke_grimstroke_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Vo_grimstroke_grimstroke_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_grimstroke_grimstroke_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_grimstroke_grimstroke_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_grimstroke_grimstroke_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_grimstroke_grimstroke_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_grimstroke_grimstroke_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_grimstroke_grimstroke_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_grimstroke_grimstroke_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Vo_grimstroke_grimstroke_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_grimstroke_grimstroke_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Vo_grimstroke_grimstroke_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_grimstroke_grimstroke_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_grimstroke_grimstroke_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_grimstroke_grimstroke_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_grimstroke_grimstroke_laugh_17.mp3"
+      ]
+    },
+    "Invoker": {
+      "href": "/wiki/Invoker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Invoker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_invoker_invo_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_invoker_invo_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Vo_invoker_invo_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_invoker_invo_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_invoker_invo_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_invoker_invo_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_invoker_invo_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_invoker_invo_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_invoker_invo_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Vo_invoker_invo_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_invoker_invo_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_invoker_invo_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_invoker_invo_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_invoker_invo_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_invoker_invo_laugh_15.mp3"
+      ]
+    },
+    "Jakiro": {
+      "href": "/wiki/Jakiro",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Jakiro_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_jakiro_jak_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_jakiro_jak_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_jakiro_jak_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_jakiro_jak_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_jakiro_jak_laugh_05.mp3"
+      ]
+    },
+    "Keeper of the Light": {
+      "href": "/wiki/Keeper_of_the_Light",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Keeper_of_the_Light_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_keeper_of_the_light_keep_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_keeper_of_the_light_keep_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_keeper_of_the_light_keep_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Vo_keeper_of_the_light_keep_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_keeper_of_the_light_keep_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_keeper_of_the_light_keep_laugh_06.mp3"
+      ]
+    },
+    "Leshrac": {
+      "href": "/wiki/Leshrac",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Leshrac_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_leshrac_lesh_level_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_leshrac_lesh_deny_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_leshrac_lesh_deny_15.mp3"
+      ]
+    },
+    "Lich": {
+      "href": "/wiki/Lich",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Lich_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_lich_lich_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_lich_lich_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_lich_lich_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_lich_lich_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a3/Vo_lich_lich_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_lich_lich_laugh_06.mp3"
+      ]
+    },
+    "Lina": {
+      "href": "/wiki/Lina",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Lina_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_lina_lina_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Vo_lina_lina_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_lina_lina_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_lina_lina_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6a/Vo_lina_lina_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_lina_lina_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_lina_lina_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_lina_lina_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_lina_lina_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_lina_lina_laugh_10.mp3"
+      ]
+    },
+    "Lion": {
+      "href": "/wiki/Lion",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Lion_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_lion_lion_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_lion_lion_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_lion_lion_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_lion_lion_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_lion_lion_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_lion_lion_laugh_06.mp3"
+      ]
+    },
+    "Nature's Prophet": {
+      "href": "/wiki/Nature%27s_Prophet",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Nature%27s_Prophet_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_furion_furi_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_furion_furi_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_furion_furi_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_furion_furi_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_furion_furi_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Vo_furion_furi_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_furion_furi_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_furion_furi_laugh_08.mp3"
+      ]
+    },
+    "Necrophos": {
+      "href": "/wiki/Necrophos",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Necrophos_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_necrolyte_necr_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_necrolyte_necr_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Vo_necrolyte_necr_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_necrolyte_necr_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_necrolyte_necr_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_necrolyte_necr_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_necrolyte_necr_laugh_07.mp3"
+      ]
+    },
+    "Ogre Magi": {
+      "href": "/wiki/Ogre_Magi",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Ogre_Magi_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_ogre_magi_ogmag_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_ogre_magi_ogmag_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_ogre_magi_ogmag_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_ogre_magi_ogmag_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_ogre_magi_ogmag_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e8/Vo_ogre_magi_ogmag_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_ogre_magi_ogmag_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_ogre_magi_ogmag_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_ogre_magi_ogmag_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_ogre_magi_ogmag_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_ogre_magi_ogmag_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_ogre_magi_ogmag_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_ogre_magi_ogmag_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_ogre_magi_ogmag_laugh_14.mp3"
+      ]
+    },
+    "Oracle": {
+      "href": "/wiki/Oracle",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Oracle_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_oracle_orac_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Vo_oracle_orac_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_oracle_orac_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_oracle_orac_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_oracle_orac_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_oracle_orac_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_oracle_orac_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_oracle_orac_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Vo_oracle_orac_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_oracle_orac_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_oracle_orac_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_oracle_orac_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_oracle_orac_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_oracle_orac_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_oracle_orac_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Vo_oracle_orac_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_oracle_orac_laugh_17.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Vo_oracle_orac_laugh_18.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_oracle_orac_laugh_19.mp3"
+      ]
+    },
+    "Outworld Destroyer": {
+      "href": "/wiki/Outworld_Destroyer",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Outworld_Destroyer_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_outworld_destroyer_odest_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_outworld_destroyer_odest_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_outworld_destroyer_odest_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_outworld_destroyer_odest_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_outworld_destroyer_odest_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_outworld_destroyer_odest_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_outworld_destroyer_odest_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_outworld_destroyer_odest_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a3/Vo_outworld_destroyer_odest_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_outworld_destroyer_odest_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_outworld_destroyer_odest_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Vo_outworld_destroyer_odest_laugh_12.mp3"
+      ]
+    },
+    "Puck": {
+      "href": "/wiki/Puck",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Puck_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_puck_puck_laugh_01.mp3"
+      ]
+    },
+    "Pugna": {
+      "href": "/wiki/Pugna",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Pugna_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_pugna_pugna_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_pugna_pugna_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_pugna_pugna_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_pugna_pugna_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Vo_pugna_pugna_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_pugna_pugna_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/53/Vo_pugna_pugna_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_pugna_pugna_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/53/Vo_pugna_pugna_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_pugna_pugna_laugh_10.mp3"
+      ]
+    },
+    "Queen of Pain": {
+      "href": "/wiki/Queen_of_Pain",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Queen_of_Pain_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_queenofpain_pain_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_queenofpain_pain_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_queenofpain_pain_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_queenofpain_pain_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_queenofpain_pain_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_queenofpain_pain_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_queenofpain_pain_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_queenofpain_pain_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_queenofpain_pain_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_queenofpain_pain_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_queenofpain_pain_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_queenofpain_pain_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_queenofpain_pain_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Vo_queenofpain_pain_laugh_14.mp3"
+      ]
+    },
+    "Rubick": {
+      "href": "/wiki/Rubick",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Rubick_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_rubick_rubick_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_rubick_rub_arc_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_rubick_rubick_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_rubick_rub_arc_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_rubick_rubick_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_rubick_rub_arc_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_rubick_rubick_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_rubick_rub_arc_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Vo_rubick_rubick_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_rubick_rub_arc_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_rubick_rubick_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_rubick_rub_arc_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_rubick_rubick_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_rubick_rub_arc_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_rubick_rubick_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_rubick_rub_arc_laugh_08.mp3"
+      ]
+    },
+    "Shadow Demon": {
+      "href": "/wiki/Shadow_Demon",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f3/Shadow_Demon_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_shadow_demon_shadow_demon_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_shadow_demon_shadow_demon_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_shadow_demon_shadow_demon_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_shadow_demon_shadow_demon_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_shadow_demon_shadow_demon_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_shadow_demon_shadow_demon_laugh_06.mp3"
+      ]
+    },
+    "Shadow Shaman": {
+      "href": "/wiki/Shadow_Shaman",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Shadow_Shaman_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Vo_shadowshaman_shad_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_shadowshaman_shad_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_shadowshaman_shad_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_shadowshaman_shad_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Vo_shadowshaman_shad_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_shadowshaman_shad_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_shadowshaman_shad_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Vo_shadowshaman_shad_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_shadowshaman_shad_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Vo_shadowshaman_shad_laugh_10.mp3"
+      ]
+    },
+    "Silencer": {
+      "href": "/wiki/Silencer",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Silencer_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_silencer_silen_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_silencer_silen_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_silencer_silen_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_silencer_silen_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_silencer_silen_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_silencer_silen_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a3/Vo_silencer_silen_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Vo_silencer_silen_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_silencer_silen_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_silencer_silen_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_silencer_silen_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_silencer_silen_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_silencer_silen_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Vo_silencer_silen_laugh_14.mp3"
+      ]
+    },
+    "Skywrath Mage": {
+      "href": "/wiki/Skywrath_Mage",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Skywrath_Mage_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_skywrath_mage_drag_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_skywrath_mage_drag_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_skywrath_mage_drag_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_skywrath_mage_drag_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_skywrath_mage_drag_laugh_07.mp3"
+      ]
+    },
+    "Storm Spirit": {
+      "href": "/wiki/Storm_Spirit",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Storm_Spirit_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_stormspirit_ss_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Vo_stormspirit_ss_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_stormspirit_ss_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_stormspirit_ss_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_stormspirit_ss_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_stormspirit_ss_laugh_06.mp3"
+      ]
+    },
+    "Techies": {
+      "href": "/wiki/Techies",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Techies_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_techies_tech_move_23.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_techies_tech_move_24.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Vo_techies_tech_move_45.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_techies_tech_move_46.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_techies_tech_move_47.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_techies_tech_move_48.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_techies_tech_attack_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Vo_techies_tech_attack_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/51/Vo_techies_tech_attack_22.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_techies_tech_attack_23.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_techies_tech_kill_22.mp3"
+      ]
+    },
+    "Tinker": {
+      "href": "/wiki/Tinker",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Tinker_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_tinker_tink_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_tinker_tink_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3d/Vo_tinker_tink_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_tinker_tink_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_tinker_tink_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Vo_tinker_tink_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Vo_tinker_tink_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_tinker_tink_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b5/Vo_tinker_tink_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_tinker_tink_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_tinker_tink_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_tinker_tink_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_tinker_tink_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_tinker_tink_laugh_14.mp3"
+      ]
+    },
+    "Visage": {
+      "href": "/wiki/Visage",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Visage_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_visage_visa_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_visage_visa_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_visage_visa_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_visage_visa_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_visage_visa_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_visage_visa_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Vo_visage_visa_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_visage_visa_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_visage_visa_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_visage_visa_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_visage_visa_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_visage_visa_laugh_12.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_visage_visa_laugh_13.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_visage_visa_laugh_14.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_visage_visa_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_visage_visa_laugh_16.mp3"
+      ]
+    },
+    "Void Spirit": {
+      "href": "/wiki/Void_Spirit",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Void_Spirit_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_void_spirit_voidspir_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Vo_void_spirit_voidspir_laugh_01_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_void_spirit_voidspir_laugh_01_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_void_spirit_voidspir_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_void_spirit_voidspir_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_void_spirit_voidspir_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_void_spirit_voidspir_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_void_spirit_voidspir_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_void_spirit_voidspir_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_void_spirit_voidspir_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_void_spirit_voidspir_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_void_spirit_voidspir_laugh_10.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_void_spirit_voidspir_laugh_11.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_void_spirit_voidspir_laugh_15.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_void_spirit_voidspir_laugh_16.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Vo_void_spirit_voidspir_laugh_17.mp3"
+      ]
+    },
+    "Warlock": {
+      "href": "/wiki/Warlock",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Warlock_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_warlock_warl_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_warlock_warl_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_warlock_warl_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_warlock_warl_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_warlock_warl_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_warlock_warl_laugh_06.mp3"
+      ]
+    },
+    "Windranger": {
+      "href": "/wiki/Windranger",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Windranger_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_windrunner_wind_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_windrunner_wind_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_windrunner_wind_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_windrunner_wind_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_windrunner_wind_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Vo_windrunner_wind_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_windrunner_wind_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_windrunner_wind_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_windrunner_wind_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_windrunner_wind_laugh_10.mp3"
+      ]
+    },
+    "Winter Wyvern": {
+      "href": "/wiki/Winter_Wyvern",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Winter_Wyvern_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Vo_winter_wyvern_winwyv_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_winter_wyvern_winwyv_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_winter_wyvern_winwyv_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_winter_wyvern_winwyv_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_winter_wyvern_winwyv_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_winter_wyvern_winwyv_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_winter_wyvern_winwyv_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_winter_wyvern_winwyv_laugh_10.mp3"
+      ]
+    },
+    "Witch Doctor": {
+      "href": "/wiki/Witch_Doctor",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Witch_Doctor_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_witchdoctor_wdoc_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_witchdoctor_wdoc_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_witchdoctor_wdoc_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_witchdoctor_wdoc_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_witchdoctor_wdoc_laugh_05.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_witchdoctor_wdoc_laugh_06.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_witchdoctor_wdoc_laugh_07.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_witchdoctor_wdoc_laugh_08.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_witchdoctor_wdoc_laugh_09.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_witchdoctor_wdoc_laugh_10.mp3"
+      ]
+    },
+    "Zeus": {
+      "href": "/wiki/Zeus",
+      "img": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Zeus_icon.png",
+      "vo": [
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_zuus_zuus_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_zuus_zuus_arc_laugh_01.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_zuus_zuus_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_zuus_zuus_arc_laugh_02.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Vo_zuus_zuus_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_zuus_zuus_arc_laugh_03.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_zuus_zuus_laugh_04.mp3",
+        "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_zuus_zuus_arc_laugh_04.mp3"
+      ]
+    }
+  }
+}
