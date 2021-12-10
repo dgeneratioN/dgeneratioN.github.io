@@ -58,6 +58,7 @@ function defaultPortrait(){
 
 function rir(){
   currentHero = herolist.value;
+  som = new Audio()
   som.src = thisdata[currentType][currentHero]['vo'].random();
   som.play();
 }
